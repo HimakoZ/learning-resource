@@ -1,4 +1,12 @@
-This is a tutorial from the vedio (https://www.youtube.com/watch?v=OmQiLvnY3WY&t=2s) creater Dave Ebbelaar
-You can use chatgpt to do the machine learning work and run model to forecast value you want
+--This is a tutorial from the vedio creater Dave Ebbelaar. (https://www.youtube.com/watch?v=OmQiLvnY3WY&t=2s) 
+--You can use chatgpt to do the machine learning work and run model to forecast value you want.
+--Make sure that you have a proper Python enviroment that can use for this tutorial.
+--This tutorial by using chatgpt to do machine learning work will follow by 
+
 Step 1
-  Open the link and download the dataset already created : https://docs.datalumina.io/bJhyeJ4lHG...
+  --Open the link and download the dataset already created : https://docs.datalumina.io/bJhyeJ4lHG...
+  --Put dataset into VS code
+Step 2
+  --Open an empty Python file that in source "Data"
+Step 3
+  
